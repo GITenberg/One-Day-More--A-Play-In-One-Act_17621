@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17621#One-Day-More--A-Play-In-One-Act
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2006-01-29'
 gutenberg_type: Text
